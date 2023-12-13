@@ -1,0 +1,105 @@
+body {
+    margin: 0%;
+    padding: 0%;
+}
+
+.page {
+    margin-top: 70px;
+    height: 610px;
+    background-color: rgb(225, 225, 225);
+}
+
+/* for left information */
+
+.info {
+    float: left;
+    width: 750px;
+    padding-left: 100px;
+    padding-top: 100px;
+}
+
+.heading {
+    font-size: 36px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    color: rgb(228, 3, 3);
+}
+
+.headline {
+    font-size: 28px;
+    font-weight: 800;
+}
+
+.mail {
+    width: 372px;
+    height: 100px;
+    border: 2px solid rgb(62, 62, 62);
+    display: inline-block;
+    margin: 0%;
+}
+
+.contact {
+    margin: 0%;
+    float: right;
+    width: 371px;
+    height: 100px;
+    border: 2px solid rgb(62, 62, 62);
+}
+
+i {
+    float: left;
+    color: rgb(228, 3, 3);
+    padding: 30px;
+}
+
+.contact p {
+    margin: 2px;
+}
+
+.mail p {
+    margin: 2px;
+}
+
+/* email and phone size */
+
+.contacthead {
+    font-size: 28px;
+    font-weight: 800;
+    padding-top: 15px;
+}
+
+/* for  booking part */
+
+.book {
+    float: right;
+    background-color: white;
+    width: 450px;
+    height: 450px;
+    margin: 100px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.table {
+    font-size: 24px;
+    margin: auto;
+    padding-top: 40px;
+}
+
+input {
+    text-align: center;
+    width: 300px;
+    height: 38px;
+    margin: 15px;
+    border-color: rgb(217, 215, 215);
+}
+
+button {
+    margin-top: 10px;
+    width: 110px;
+    height: 38px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(228, 3, 3);
+    color: white;
+}
